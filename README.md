@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sol4rOnGit
 - 👀 I’m interested in creating video games, websites, physic based environments
-- 🌱 I’m currently learning C# unity
+- 🌱 I’m currently using C# unity, web dev and python
 - 💞️ I’m looking to collaborate on a physics based simulation video game
 - 📫 How to reach me Hiresh.Solanki@outlook.com
 - ⚡ Fun fact: this is a fact thats fun
