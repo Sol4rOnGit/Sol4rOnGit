@@ -18,14 +18,15 @@ C#, Python, GDScript, HTML, CSS and JavaScript, Lua, C++
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=css&logoColor=white&labelColor=%23663399)
 
 💪 Projects
-[Video Games | created with Godot](https://sol4ronitchio.itch.io/)
-[Web Development | DKNS Website](https://dkns-website.vercel.app/)
-[Web Development | S+EM. Website](https://stemtutors.vercel.app/)
-See all other projects in development below!
-[Video Game | Roblox | 1,700 visits at the age of 10](https://www.roblox.com/games/4915318119/ToH-Practice-SuperTower)
 
+| [Video Games | created with Godot](https://sol4ronitchio.itch.io/) | [Web Development | DKNS Website](https://dkns-website.vercel.app/) | [Web Development | S+EM. Website](https://stemtutors.vercel.app/)
+| [Video Game | Roblox | 1,700 visits at the age of 10](https://www.roblox.com/games/4915318119/ToH-Practice-SuperTower) | 
+
+I am currently working on the S+EM. website, Computer science society website and "FLOW" as a personal project - a video game where you swim between traffic on a motorway.
 
 My [LinkedIn here](https://www.linkedin.com/in/hiresh-solanki-85b062378/) to see other stuff not related to development as well. 
+
+See below for all of my other projects that may not be listed above or on my LinkedIn.
 
 <!---
 Sol4rOnGit/Sol4rOnGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
