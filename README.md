@@ -22,7 +22,7 @@ C#, Python, GDScript, Java, HTML, CSS and JavaScript, Lua
 | [Video Games | created with Godot](https://sol4ronitchio.itch.io/) | [Web Development | DKNS Website](https://dkns-website.vercel.app/) | [Web Development | S+EM. Website](https://stemtutors.vercel.app/)
 | [Video Game | Roblox | 1,700 visits at the age of 10](https://www.roblox.com/games/4915318119/ToH-Practice-SuperTower) | 
 
-I am currently working on the S+EM. website, Computer science society website and "FLOW" as a personal project - a video game where you swim between traffic on a motorway.
+I am currently working on the S+EM. website, the UCGS computer science society website and "FLOW" (a video game where you swim between traffic on a motorway) as personal projects
 
 My [LinkedIn here](https://www.linkedin.com/in/hiresh-solanki-85b062378/) to see other stuff not related to development as well. 
 
