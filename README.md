@@ -4,7 +4,7 @@ Currently Studying A Level Maths, Further Maths, Computer Science and Physics wi
 🔧 Technical Skills
 
 🗣️ Languages
-C#, Python, GDScript, HTML, CSS and JavaScript, Lua, C++
+C#, Python, GDScript, Java, HTML, CSS and JavaScript, Lua
 
 👾 Game Development
 ![Static Badge](https://img.shields.io/badge/Unity-blue?logo=unity)
