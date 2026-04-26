@@ -11,6 +11,10 @@ C#, Python, GDScript, Java, HTML, CSS and JavaScript, Lua
 ![Static Badge](https://img.shields.io/badge/Godot-gray?logo=godotengine)
 ![Static Badge](https://img.shields.io/badge/Roblox%20Studio-red?logo=roblox)
 
+🎮 Minecraft Modding
+![Fabric](https://img.shields.io/badge/Minecraft%20Mods-Fabric-f0d6bc?style=flat&logo=minecraft&logoColor=white)
+![Paper](https://img.shields.io/badge/Minecraft%20Plugins-Paper-62AE42?style=flat&logo=speedtest&logoColor=white)
+
 💻 Web Development
 ![Static Badge](https://img.shields.io/badge/React-darkblue?logo=react)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&labelColor=white)
@@ -22,7 +26,9 @@ C#, Python, GDScript, Java, HTML, CSS and JavaScript, Lua
 | [Video Games | created with Godot](https://sol4ronitchio.itch.io/) | [Web Development | DKNS Website](https://dkns-website.vercel.app/) | [Web Development | S+EM. Website](https://stemtutors.vercel.app/)
 | [Video Game | Roblox | 1,700 visits at the age of 10](https://www.roblox.com/games/4915318119/ToH-Practice-SuperTower) | 
 
-I am currently working on the S+EM. website, the UCGS computer science society website and "FLOW" (a video game where you swim between traffic on a motorway) as personal projects
+I am currently working on the S+EM. website, the UCGS computer science society website and "FLOW" (a video game where you swim between traffic on a motorway) as personal projects.
+
+I am also working on many Minecraft mods and plugins for YouTube & as passion projects. See [Modrinth](https://modrinth.com/user/Sol4rMakingMods).
 
 My [LinkedIn here](https://www.linkedin.com/in/hiresh-solanki-85b062378/) to see other stuff not related to development as well. 
 
