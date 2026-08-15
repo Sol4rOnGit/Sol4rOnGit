@@ -1,4 +1,4 @@
-Nice to meet you, I'm a 17 year old aspiring software engineer passionate about coding as a lifestyle.
+Nice to meet you, I'm a 17 year old aspiring software engineer passionate about coding and developing :)
 Currently Studying A Level Maths, Further Maths, Computer Science and Physics with 4 A*s predicted.
 
 🔧 Technical Skills
