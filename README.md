@@ -1,5 +1,5 @@
 Nice to meet you, I'm a 17 year old aspiring software engineer passionate about coding and developing :)
-Currently Studying A Level Maths, Further Maths, Computer Science and Physics with 4 A*s predicted.
+Currently Studying A Level Maths, Further Maths, Computer Science and Physics with 4 A*s predicted. And 54/54 (pending moderation) [Extended Project Qualification](https://github.com/Sol4rOnGit/EPQ-python)
 
 🔧 Technical Skills
 
