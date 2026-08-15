@@ -23,10 +23,11 @@ C#, Python, GDScript, Java, HTML, CSS and JavaScript, Lua
 
 💪 Projects
 
-| [Video Games | created with Godot](https://sol4ronitchio.itch.io/) | [Web Development | DKNS Website](https://dkns-website.vercel.app/) | [Web Development | S+EM. Website](https://stemtutors.vercel.app/)
-| [Video Game | Roblox | 1,700 visits at the age of 10](https://www.roblox.com/games/4915318119/ToH-Practice-SuperTower) | 
+| [Capital Chaos, Unity C#](https://github.com/Sol4rOnGit/PocketCity) |  | [FLOW, Unity C#](https://github.com/Sol4rOnGit/Flow) |[Video Games | created with Godot](https://sol4ronitchio.itch.io/) | [Video Game | Roblox | 1,700 visits at the age of 10](https://www.roblox.com/games/4915318119/ToH-Practice-SuperTower) | 
 
-I am currently working on the S+EM. website, the UCGS computer science society website and "FLOW" (a video game where you swim between traffic on a motorway) as personal projects.
+[Web Development | DKNS Website](https://dkns-website.vercel.app/) | [Web Development | S+EM. Website](https://stemtutors.vercel.app/)
+
+I am currently working on Capital Chaos, a super chaotic city builder with lots of random events, full procedural grid generation through player-based placement with city generation, and so much more. Learnt a bit of HLSL/Shaderlab and a LOT about 3D Modelling.
 
 I am also working on many Minecraft mods and plugins for YouTube & as passion projects. See [Modrinth](https://modrinth.com/user/Sol4rMakingMods).
 
