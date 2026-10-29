@@ -23,11 +23,13 @@ C#, Python, GDScript, Java, HTML, CSS and JavaScript, Lua
 
 💪 Projects
 
-| [Capital Chaos, Unity C#](https://github.com/Sol4rOnGit/PocketCity) |  | [FLOW, Unity C#](https://github.com/Sol4rOnGit/Flow) |[Video Games | created with Godot](https://sol4ronitchio.itch.io/) | [Video Game | Roblox | 1,700 visits at the age of 10](https://www.roblox.com/games/4915318119/ToH-Practice-SuperTower) | 
+| PolyBeam, Unity C# [NEA so I can't legally show code but will be up soon!!!] | [Capital Chaos, Unity C#](https://github.com/Sol4rOnGit/PocketCity) |  | [FLOW, Unity C#](https://github.com/Sol4rOnGit/Flow) |[Video Games | created with Godot](https://sol4ronitchio.itch.io/) | [Video Game | Roblox | 1,700 visits at the age of 10](https://www.roblox.com/games/4915318119/ToH-Practice-SuperTower) | 
 
 [Web Development | DKNS Website](https://dkns-website.vercel.app/) | [Web Development | S+EM. Website](https://stemtutors.vercel.app/)
 
-I am currently working on Capital Chaos, a super chaotic city builder with lots of random events, full procedural grid generation through player-based placement with city generation, and so much more. Learnt a bit of HLSL/Shaderlab and a LOT about 3D Modelling.
+I am currently working on PolyBeam, a realistic physics-based car "crash" simulation game (with the focus on driving with a fear factor).
+
+I am currently maintaining & building on Capital Chaos, a super chaotic city builder with lots of random events, full procedural grid generation through player-based placement with city generation, and so much more. Learnt a bit of HLSL/Shaderlab and a LOT about 3D Modelling.
 
 I am also working on many Minecraft mods and plugins for YouTube & as passion projects. See [Modrinth](https://modrinth.com/user/Sol4rMakingMods).
 
